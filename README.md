@@ -9,3 +9,5 @@ nfs-plugin are deployed on all noamd client nodes where we want nfs mount to dep
 nfs-volume.hcl is used for registering nfs volume in nfs storage.
 
 testjob is test job for testing nfs volume with container.
+
+NOTE:- This will not work for creating nfs as its just used for register volume for csi use. NFS server should have folder created .
