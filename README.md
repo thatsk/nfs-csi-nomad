@@ -1,4 +1,4 @@
-# nfs-csi
+# nfs-csi-nomad 
 Official NFS csi plugin through nomad
 https://github.com/kubernetes-csi/csi-driver-nfs
 
